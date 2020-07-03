@@ -1,0 +1,10 @@
+*.o
+*.tar.gz
+dwm
+config.h
+
+bare/
+patches/
+
+*.rej
+*.orig
