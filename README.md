@@ -3,4 +3,5 @@
 ### Applied patches
 
 - Alpha
+- Xresources
 
