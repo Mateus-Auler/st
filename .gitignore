@@ -1,6 +1,6 @@
 *.o
 *.tar.gz
-dwm
+st
 config.h
 
 bare/
