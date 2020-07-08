@@ -4,4 +4,5 @@
 
 - Alpha
 - Xresources
+- Scrollback
 
